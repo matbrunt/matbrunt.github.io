@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data Science and Engineering</title>
-    <link>blog.honir.net/</link>
-    <description>Recent content on Data Science and Engineering</description>
+    <title>Articles on Data Science and Engineering</title>
+    <link>blog.honir.net/articles/</link>
+    <description>Recent content in Articles on Data Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Jul 2017 10:42:38 +0000</lastBuildDate>
     
-	<atom:link href="blog.honir.net/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="blog.honir.net/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>blog.honir.net/articles/2017-07-17-structuring-your-data-science-and-engineering-teams/</guid>
       <description>Rachel Thomas wrote a really good summary piece about structuring your Data Science and Engineering teams that I think a lot of people will recognise aspects of in their organisations. Certainly in my current role we are facing many of the challenges and opportunities of how to organise Data Science within the company.
 The majority of the scenarios she covered I have seen multiple times, which I have paraphrased below with her thoughts.</description>
-    </item>
-    
-    <item>
-      <title>Visualising Classification Performance with ROC and AUC</title>
-      <link>blog.honir.net/posts/2017-04-26-area-under-curve/</link>
-      <pubDate>Wed, 26 Apr 2017 21:53:56 +0000</pubDate>
-      
-      <guid>blog.honir.net/posts/2017-04-26-area-under-curve/</guid>
-      <description>The Receiving Operating Characteristic, or ROC, is a way to visualise the performance of a binary classifier (0/1).
-It compares the rate at which your classifier is making correct predictions (True Positives or TP) and the rate at which your classifier is making false alarms (False Positives or FP).
-When evaluating a new model performance, accuracy can be very sensitive to unbalanced class proportions. The ROC curve is insensitive to this lack of balance in the data set.</description>
     </item>
     
     <item>
