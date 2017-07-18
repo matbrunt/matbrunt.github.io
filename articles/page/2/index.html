@@ -1,11 +1,17 @@
+
+
+
+    
+
+
+
+
 <!DOCTYPE HTML>
 
 <html>
     <head>
         
-            
-                <title>Data Science and Engineering</title>
-            
+            <title>Articles - Data Science and Engineering</title>
         
 
         <meta charset="utf-8" />
@@ -22,14 +28,14 @@
         
 
         
-        <meta property="og:title" content="Data Science and Engineering" />
+        <meta property="og:title" content="Articles" />
 <meta property="og:description" content="Data Science and Engineering blog of Mat Brunt." />
 <meta property="og:type" content="website" />
-<meta property="og:url" content="//blog.honir.net/" />
+<meta property="og:url" content="//blog.honir.net/articles/" />
 
 
 
-<meta property="og:updated_time" content="2017-07-18T18:41:43&#43;00:00"/>
+<meta property="og:updated_time" content="2017-04-26T21:53:56&#43;00:00"/>
 
 
 
@@ -41,7 +47,7 @@
 
 
         
-<meta itemprop="name" content="Data Science and Engineering">
+<meta itemprop="name" content="Articles">
 <meta itemprop="description" content="Data Science and Engineering blog of Mat Brunt.">
 
 
@@ -77,10 +83,9 @@
         <div id="wrapper">
 
     
-    
 <header id="header">
     
-        <h1><a href="/">Data Science and Engineering</i></a></h1>
+        <h2><a href="/">Data Science and Engineering</i></a></h2>
     
 
     <nav class="links">
@@ -109,10 +114,6 @@
     </nav>
     <nav class="main">
         <ul>
-            
-            <li id="share-nav" class="share-menu" style="display:none;">
-                <a class="fa-share-alt" href="#share-menu">Share</a>
-            </li>
             
             <li class="search">
                 <a class="fa-search" href="#search">Search</a>
@@ -208,11 +209,16 @@
     
     <div id="main">
         
+        
+            
+        
+
+        
             <article class="post">
     <header>
     <div class="title">
         
-            <h2><a href="//blog.honir.net/posts/2017-07-18-ideas-for-machine-learning-projects/">Ideas for Machine Learning Projects</a></h2>
+            <h2><a href="//blog.honir.net/posts/2017-04-26-area-under-curve/">Visualising Classification Performance with ROC and AUC</a></h2>
         
         
     </div>
@@ -222,8 +228,8 @@
         
 
         <time class="published"
-            datetime='2017-07-18'>
-            July 18, 2017</time>
+            datetime='2017-04-26'>
+            April 26, 2017</time>
         <span class="author"></span>
         
             <p>4 minute read</p>
@@ -232,154 +238,94 @@
     </div>
 </header>
 
-
     
 
-    <div id="content">
-        
-
-<p>There are so many open data sets out there, this is a great time to be interested in data science.</p>
-
-<p>As I talked about in my earlier post about <a href="//blog.honir.net/posts/2017-07-18-building-a-data-science-learning-plan/">Building a data science learning plan</a>, over the next six months I plan on working through a number of personal projects as a vehicle to apply my learnings in data science. Having a physical output as well is useful as a way of showing progress which will motivate me even more, and <em>learning by doing</em> has always worked well for me to pick up new knowledge.</p>
-
-<p>I wanted to pick things that I am interested in rather than just picking a topic because it&rsquo;s easy and there&rsquo;s a lot of material on it. If I&rsquo;m interested in something then it&rsquo;s not work to keep chipping away it, rather something enjoyable to do outside of the day job. If you are a fan of NCIS then I&rsquo;m fairly certain Gibbs doesn&rsquo;t keep building boats in the cellar because he needs a boat.</p>
-
-<p>With that goal, I am probably going to look at the following areas (and look forward to reading this back in six months to see what I actually achieved).</p>
-
-<h2 id="sports-analytics">Sports Analytics</h2>
-
-<p>I love the story of Moneyball, where player analytics were used to craft a high performing baseball squad with a fraction of the money the larger teams were throwing at the sport. This really appealed to the underdog in me.</p>
-
-<p>My better half is really into tennis and watches it at any opportunity, to the extent I&rsquo;ve started enjoying watching matches now. Wimbledon has just ended and there seems to be the possibility of a large number of statistics there. This can branch out into a number of areas as well I think, such as:</p>
-
-<p><strong>Win/Lose</strong>: Predicting who will win or lose a match before the event, this could come in useful to see who will be doing the washing up in my household afterwards.</p>
-
-<p><strong>The Next Champions</strong>: Taking historic information and predicting who&rsquo;s career might be successful. There were a number of younger competitors who played really well but seemed to be inconsistent. As they get more experience and settle in to their skills it would be interesting to try and predict who we will be cheering in years to come.</p>
-
-<p><strong>Opposites Attract</strong>: Clustering players strengths and weaknesses to see who has similar playing styles. Along with upcoming champions this could also feed back into the win/lose algorithm as well.</p>
-
-<h2 id="predicting-stock-movements">Predicting Stock Movements</h2>
-
-<p>Now this one I think will be particularly tricky, trying to read patterns in something inheritently prone to chaos. However the stock market has always fascinated me, and I privately love the idea that you might be able to draw some form of insight into what is coming next.</p>
-
-<p>Do I expect to achieve anything close to what the armies of highly paid quantative analysts do who spend their entire days working with masses of data not publically available? No, but being told I can&rsquo;t do something usually just makes me more determined, and I&rsquo;m just looking for small insights rather than a way to retire next year with my family, a yacht and a helicopter. That said, I know exactly where my shorts and flip flops are just in case.</p>
-
-<p>Judging by the sheer amount of disclaimers you see when reading any financial blog, I&rsquo;m going to state the blindingly obvious here - <em>&ldquo;Nothing I publish is to be construed as financial advice, I am not regulated or have the foggiest what I am doing and you shouldn&rsquo;t use any information I publish to trade upon&rdquo;</em>.</p>
-
-<p>Disclaimers out of the way, there are a few areas I want to explore here:</p>
-
-<p><strong>Value Investing</strong>: Predicting whether a stock will rise or fall based upon company fundamentals, probably over a relatively short time period like months. Maybe trying to predict a rough level the price will achieve as well or just leave it as a classification problem.</p>
-
-<p><strong>Sentiment Analysis</strong>: An excuse to play with Natural Language Processing, take news reports and use them to predict if they will have an impact either on a specific stock movement, or the industry sector as a whole.</p>
-
-<p><strong>Sympathetic Stocks</strong>: Identifying clusters of stocks that follow similar price movements to see if we can use one to gauge the impact on others, and forecast when there is a change in direction.</p>
-
-<h2 id="historic-kaggle-competitions">Historic Kaggle Competitions</h2>
-
-<p>I plan on using these to see how others approach problems, and build examples in a number of areas, for example Supervised Classification and Regression, Unsupervised Learning, Recommender Systems etc.</p>
-
-<p>The goal isn&rsquo;t to place on the leaderboard or get as good a score as those before me, but rather use them as a vehicle to apply techniques and see what others use. I expect to get significantly lower scores as I want to focus on simpler implementations for the moment that I can train and deploy easily, before building up to the more advanced and complex implementations.</p>
-
-    </div>
+    <p>The Receiving Operating Characteristic, or ROC, is a way to visualise the performance of a binary classifier (0/1).<br />
+It compares the rate at which your classifier is making correct predictions (True Positives or TP) and the rate at which your classifier is making false alarms (False Positives or FP).<br />
+When evaluating a new model performance, accuracy can be very sensitive to unbalanced class proportions. The ROC curve is insensitive to this lack of balance in the data set.</p>
 
     <footer>
+        <ul class="actions">
+            <li><a href="//blog.honir.net/posts/2017-04-26-area-under-curve/" class="button big">Continue Reading</a></li>
+        </ul>
         <ul class="stats">
     
         
 
         
         
-            <li>
-                
-                
-                    
-
-                    
-
-                    
-
-                    
-                        Category
-                    
-                
-            </li>
-        
     
 
     
-    
-        <li><a href='/categories/learning'>learning</a></li>
     
 </ul>
 
     </footer>
 </article>
-<ul class="actions pagination">
-    
-        <li><a href="//blog.honir.net/posts/2017-07-18-building-a-data-science-learning-plan/"
-                class="button big previous">Building a Data Science Learning Plan</a></li>
+
+        
+            <article class="post">
+    <header>
+    <div class="title">
+        
+            <h2><a href="//blog.honir.net/articles/2015-02-17-quick-introduction-to-python-3-classes/">Quick Introduction to Python 3 Classes</a></h2>
+        
+        
+    </div>
+    <div class="meta">
+        
+            
+        
+
+        <time class="published"
+            datetime='2015-02-17'>
+            February 17, 2015</time>
+        <span class="author"></span>
+        
+            <p>2 minute read</p>
+        
+        
+    </div>
+</header>
+
     
 
+    <p>If you are looking for a good introduction to Python 3 Classes then the Python Classes Strike Again post by Leonardo Giordani is very good.<br />
+class Door: colour = &lsquo;brown&rsquo; def <strong>init</strong>(self, number, status): self.number = number self.status = status @classmethod def knock(cls): print(&quot;Knock!&quot;) @classmethod def paint(cls, colour): cls.colour = colour def open(self): self.status = &lsquo;open&rsquo; def close(self): self.status = &lsquo;closed&rsquo;   The paint() class method now changes the class attribute colour which is shared amongst instances.</p>
+
+    <footer>
+        <ul class="actions">
+            <li><a href="//blog.honir.net/articles/2015-02-17-quick-introduction-to-python-3-classes/" class="button big">Continue Reading</a></li>
+        </ul>
+        <ul class="stats">
+    
+        
+
+        
+        
+    
+
+    
     
 </ul>
 
-
-
-            <section id="share-menu">
-    <section id="social-share-nav">
-        <ul class="links">
-            <header>
-                <h3>Share this post <i class="fa fa-smile-o"></i></h3>
-            </header>
-            
-
-
-<li><a href="//twitter.com/share?url=%2f%2fblog.honir.net%2fposts%2f2017-07-18-ideas-for-machine-learning-projects%2f&text=Ideas%20for%20Machine%20Learning%20Projects&via=" target="_blank" class="share-btn twitter">
-    <i class="fa fa-twitter"></i>
-    <p>Twitter</p>
-</a></li>
-
-
-<li><a href="//plus.google.com/share?url=%2f%2fblog.honir.net%2fposts%2f2017-07-18-ideas-for-machine-learning-projects%2f" target="_blank" class="share-btn google-plus">
-    <i class="fa fa-google-plus"></i>
-    <p>Google+</p>
-</a></li>
-
-
-<li><a href="//www.facebook.com/sharer/sharer.php?u=%2f%2fblog.honir.net%2fposts%2f2017-07-18-ideas-for-machine-learning-projects%2f" target="_blank" class="share-btn facebook">
-    <i class="fa fa-facebook"></i>
-    <p>Facebook</p>
-</a></li>
-
-
-<li><a href="//reddit.com/submit?url=%2f%2fblog.honir.net%2fposts%2f2017-07-18-ideas-for-machine-learning-projects%2f&title=Ideas%20for%20Machine%20Learning%20Projects" target="_blank" class="share-btn reddit">
-    <i class="fa fa-reddit-alien"></i>
-    <p>Reddit</p>
-</a></li>
-
-
-<li><a href="//www.linkedin.com/shareArticle?url=%2f%2fblog.honir.net%2fposts%2f2017-07-18-ideas-for-machine-learning-projects%2f&title=Ideas%20for%20Machine%20Learning%20Projects" target="_blank" class="share-btn linkedin">
-    <i class="fa fa-linkedin"></i>
-    <p>LinkedIn</p>
-</a></li>
-
-
-<li><a href="//www.stumbleupon.com/submit?url=%2f%2fblog.honir.net%2fposts%2f2017-07-18-ideas-for-machine-learning-projects%2f&title=Ideas%20for%20Machine%20Learning%20Projects" target="_blank" class="share-btn stumbleupon">
-    <i class="fa fa-stumbleupon"></i>
-    <p>StumbleUpon</p>
-</a></li>
-
-
-<li><a href="mailto:?subject=Check out this post by &body=%2f%2fblog.honir.net%2fposts%2f2017-07-18-ideas-for-machine-learning-projects%2f" target="_blank" class="share-btn email">
-    <i class="fa fa-envelope"></i>
-    <p>Email</p>
-</a></li>
-
-        </ul>
-    </section>
-</section>
+    </footer>
+</article>
 
         
+
+        
+<ul class="actions pagination">
+    
+        <li><a href="/articles/"
+                class="button big previous">Previous Page</a></li>
+    
+
+    
+        <li><a href="#" class="disabled button big next">Next Page</a></li>
+    
+</ul>
+
     </div>
     
 <section id="sidebar">
@@ -400,7 +346,7 @@
             
             <ul class="icons">
                 
-                    <li><a href="//blog.honir.net/index.xml" type="application/rss+xml"
+                    <li><a href="//blog.honir.net/articles/index.xml" type="application/rss+xml"
                         target="_blank" title="RSS" class="fa fa-rss"></a></li>
                 
                 
@@ -576,7 +522,7 @@
         <section id="footer">
             <ul class="icons">
                 
-                    <li><a href="//blog.honir.net/index.xml" type="application/rss+xml"
+                    <li><a href="//blog.honir.net/articles/index.xml" type="application/rss+xml"
                         target="_blank" title="RSS" class="fa fa-rss"></a></li>
                 
                 

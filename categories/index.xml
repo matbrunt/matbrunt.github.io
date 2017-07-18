@@ -10,5 +10,14 @@
 	<atom:link href="//blog.honir.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Learning</title>
+      <link>//blog.honir.net/categories/learning/</link>
+      <pubDate>Tue, 18 Jul 2017 18:41:43 +0000</pubDate>
+      
+      <guid>//blog.honir.net/categories/learning/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
