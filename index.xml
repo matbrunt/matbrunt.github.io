@@ -6,10 +6,20 @@
     <description>Recent content on Data Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 18 Jul 2017 18:41:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jul 2017 11:47:35 +0000</lastBuildDate>
     
 	<atom:link href="//blog.honir.net/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>How Ai Fits Into Your Data Science Team</title>
+      <link>//blog.honir.net/articles/2017-07-28-how-ai-fits-into-your-data-science-team/</link>
+      <pubDate>Fri, 28 Jul 2017 11:47:35 +0000</pubDate>
+      
+      <guid>//blog.honir.net/articles/2017-07-28-how-ai-fits-into-your-data-science-team/</guid>
+      <description>I read an interesting article this morning from an interview with Hilary Mason on Harvard Business Review about How AI fits into your data science team.
+There are a few sections I wanted to capture and expand upon, as I think analytics / data science / machine learning will all see an increase in adoption from business over the coming years, and am very interested in how this might play out.</description>
+    </item>
     
     <item>
       <title>Ideas for Machine Learning Projects</title>
