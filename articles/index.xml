@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Data Science and Engineering</title>
-    <link>//blog.honir.net/articles/</link>
+    <link>//localhost:1313/articles/</link>
     <description>Recent content in Articles on Data Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 28 Jul 2017 11:47:35 +0000</lastBuildDate>
     
-	<atom:link href="//blog.honir.net/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//localhost:1313/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How Ai Fits Into Your Data Science Team</title>
-      <link>//blog.honir.net/articles/2017-07-28-how-ai-fits-into-your-data-science-team/</link>
+      <link>//localhost:1313/articles/2017-07-28-how-ai-fits-into-your-data-science-team/</link>
       <pubDate>Fri, 28 Jul 2017 11:47:35 +0000</pubDate>
       
-      <guid>//blog.honir.net/articles/2017-07-28-how-ai-fits-into-your-data-science-team/</guid>
+      <guid>//localhost:1313/articles/2017-07-28-how-ai-fits-into-your-data-science-team/</guid>
       <description>I read an interesting article this morning from an interview with Hilary Mason on Harvard Business Review about How AI fits into your data science team.
 There are a few sections I wanted to capture and expand upon, as I think analytics / data science / machine learning will all see an increase in adoption from business over the coming years, and am very interested in how this might play out.</description>
     </item>
     
     <item>
       <title>Structuring Your Data Science And Engineering Teams</title>
-      <link>//blog.honir.net/articles/2017-07-17-structuring-your-data-science-and-engineering-teams/</link>
+      <link>//localhost:1313/articles/2017-07-17-structuring-your-data-science-and-engineering-teams/</link>
       <pubDate>Mon, 17 Jul 2017 10:42:38 +0000</pubDate>
       
-      <guid>//blog.honir.net/articles/2017-07-17-structuring-your-data-science-and-engineering-teams/</guid>
+      <guid>//localhost:1313/articles/2017-07-17-structuring-your-data-science-and-engineering-teams/</guid>
       <description>Rachel Thomas wrote a really good summary piece about structuring your Data Science and Engineering teams that I think a lot of people will recognise aspects of in their organisations. Certainly in my current role we are facing many of the challenges and opportunities of how to organise Data Science within the company.
 The majority of the scenarios she covered I have seen multiple times, which I have paraphrased below with her thoughts.</description>
     </item>
     
     <item>
       <title>Quick Introduction to Python 3 Classes</title>
-      <link>//blog.honir.net/articles/2015-02-17-quick-introduction-to-python-3-classes/</link>
+      <link>//localhost:1313/articles/2015-02-17-quick-introduction-to-python-3-classes/</link>
       <pubDate>Tue, 17 Feb 2015 16:05:43 +0000</pubDate>
       
-      <guid>//blog.honir.net/articles/2015-02-17-quick-introduction-to-python-3-classes/</guid>
+      <guid>//localhost:1313/articles/2015-02-17-quick-introduction-to-python-3-classes/</guid>
       <description>If you are looking for a good introduction to Python 3 Classes then the Python Classes Strike Again post by Leonardo Giordani is very good.
 class Door: colour = &#39;brown&#39; def __init__(self, number, status): self.number = number self.status = status @classmethod def knock(cls): print(&amp;quot;Knock!&amp;quot;) @classmethod def paint(cls, colour): cls.colour = colour def open(self): self.status = &#39;open&#39; def close(self): self.status = &#39;closed&#39;   The paint() class method now changes the class attribute colour which is shared amongst instances.</description>
     </item>
