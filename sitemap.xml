@@ -3,82 +3,104 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//localhost:1313/posts/2019-03-31-writing-concise-emails/</loc>
+    <loc>//blog.honir.net/articles/2019-04-13-armchair-trading/</loc>
+    <lastmod>2019-04-13T17:29:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//blog.honir.net/posts/2019-04-08-what-makes-a-good-forecast/</loc>
+    <lastmod>2019-04-08T21:08:43+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//blog.honir.net/posts/2019-03-31-writing-concise-emails/</loc>
     <lastmod>2019-03-31T12:28:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/articles/2017-07-28-how-ai-fits-into-your-data-science-team/</loc>
+    <loc>//blog.honir.net/articles/2017-07-28-how-ai-fits-into-your-data-science-team/</loc>
     <lastmod>2017-07-28T11:47:35+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/posts/2017-07-18-ideas-for-machine-learning-projects/</loc>
+    <loc>//blog.honir.net/posts/2017-07-18-ideas-for-machine-learning-projects/</loc>
     <lastmod>2017-07-18T18:41:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/posts/2017-07-18-building-a-data-science-learning-plan/</loc>
+    <loc>//blog.honir.net/posts/2017-07-18-building-a-data-science-learning-plan/</loc>
     <lastmod>2017-07-18T10:31:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>//blog.honir.net/about/</loc>
     <lastmod>2017-07-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/articles/2017-07-17-structuring-your-data-science-and-engineering-teams/</loc>
+    <loc>//blog.honir.net/articles/2017-07-17-structuring-your-data-science-and-engineering-teams/</loc>
     <lastmod>2017-07-17T10:42:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/posts/2017-04-26-area-under-curve/</loc>
+    <loc>//blog.honir.net/posts/2017-04-26-area-under-curve/</loc>
     <lastmod>2017-04-26T21:53:56+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/articles/2015-02-17-quick-introduction-to-python-3-classes/</loc>
+    <loc>//blog.honir.net/articles/2015-02-17-quick-introduction-to-python-3-classes/</loc>
     <lastmod>2015-02-17T16:05:43+00:00</lastmod>
   </url>
   
   <url>
-    <loc>//localhost:1313/articles/</loc>
-    <lastmod>2017-07-28T11:47:35+00:00</lastmod>
+    <loc>//blog.honir.net/articles/</loc>
+    <lastmod>2019-04-13T17:29:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>//blog.honir.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2019-03-31T12:28:43+00:00</lastmod>
+    <loc>//blog.honir.net/</loc>
+    <lastmod>2019-04-13T17:29:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/learning/</loc>
+    <loc>//blog.honir.net/categories/forecasting/</loc>
+    <lastmod>2019-04-08T21:08:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//blog.honir.net/categories/learning/</loc>
     <lastmod>2017-07-18T18:41:43+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/posts/</loc>
+    <loc>//blog.honir.net/posts/</loc>
+    <lastmod>2019-04-08T21:08:43+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>//blog.honir.net/categories/productivity/</loc>
     <lastmod>2019-03-31T12:28:43+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/categories/productivity/</loc>
-    <lastmod>2019-03-31T12:28:43+00:00</lastmod>
+    <loc>//blog.honir.net/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>//blog.honir.net/categories/trading/</loc>
+    <lastmod>2019-04-13T17:29:35+00:00</lastmod>
     <priority>0</priority>
   </url>
   

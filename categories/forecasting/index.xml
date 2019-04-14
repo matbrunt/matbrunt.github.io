@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forecasting on Data Science and Engineering</title>
+    <link>//blog.honir.net/categories/forecasting/</link>
+    <description>Recent content in Forecasting on Data Science and Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Apr 2019 21:08:43 +0000</lastBuildDate>
+    
+	<atom:link href="//blog.honir.net/categories/forecasting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What makes a good forecast?</title>
+      <link>//blog.honir.net/posts/2019-04-08-what-makes-a-good-forecast/</link>
+      <pubDate>Mon, 08 Apr 2019 21:08:43 +0000</pubDate>
+      
+      <guid>//blog.honir.net/posts/2019-04-08-what-makes-a-good-forecast/</guid>
+      <description>&amp;ldquo;Remember that all models are wrong; the practical question is how wrong do they have to be to not be useful.&amp;rdquo; George Box.
+ Forecasts are not predictions; predictions are authorative, a statement of the future based on insights into how the world works. A forecast is a projection based on assumptions about the future state of the world. It can be, and sometimes should be, wrong. However a good forecast will be useful at the point in time it is created, to highlight the direction you are heading in and drive actions in response.</description>
+    </item>
+    
+  </channel>
+</rss>

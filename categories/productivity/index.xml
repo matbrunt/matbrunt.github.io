@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Productivity on Data Science and Engineering</title>
-    <link>//localhost:1313/categories/productivity/</link>
+    <link>//blog.honir.net/categories/productivity/</link>
     <description>Recent content in Productivity on Data Science and Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Mar 2019 12:28:43 +0000</lastBuildDate>
     
-	<atom:link href="//localhost:1313/categories/productivity/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//blog.honir.net/categories/productivity/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Writing Concise Emails</title>
-      <link>//localhost:1313/posts/2019-03-31-writing-concise-emails/</link>
+      <link>//blog.honir.net/posts/2019-03-31-writing-concise-emails/</link>
       <pubDate>Sun, 31 Mar 2019 12:28:43 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/2019-03-31-writing-concise-emails/</guid>
+      <guid>//blog.honir.net/posts/2019-03-31-writing-concise-emails/</guid>
       <description>I type the way I talk, which results in my emails being overly verbose and hard to distinguish the signal I wish to convey amongst all the noise.
 Do that enough times and I suspect normal human behaviour would be to no longer read lengthy emails and instead skim them, which means the message I&amp;rsquo;m trying to get across is no longer effective, and worse still, I am potentially wasting the time of every recipient.</description>
     </item>
