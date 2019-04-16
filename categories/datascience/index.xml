@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Datascience on Data Science and Engineering</title>
+    <link>//blog.honir.net/categories/datascience/</link>
+    <description>Recent content in Datascience on Data Science and Engineering</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 28 Jul 2017 11:47:35 +0000</lastBuildDate>
+    
+	<atom:link href="//blog.honir.net/categories/datascience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How Ai Fits Into Your Data Science Team</title>
+      <link>//blog.honir.net/posts/2017-07-28-how-ai-fits-into-your-data-science-team/</link>
+      <pubDate>Fri, 28 Jul 2017 11:47:35 +0000</pubDate>
+      
+      <guid>//blog.honir.net/posts/2017-07-28-how-ai-fits-into-your-data-science-team/</guid>
+      <description>I read an interesting article this morning from an interview with Hilary Mason on Harvard Business Review about How AI fits into your data science team.
+There are a few sections I wanted to capture and expand upon, as I think analytics / data science / machine learning will all see an increase in adoption from business over the coming years, and am very interested in how this might play out.</description>
+    </item>
+    
+    <item>
+      <title>Visualising Classification Performance with ROC and AUC</title>
+      <link>//blog.honir.net/posts/2017-04-26-area-under-curve/</link>
+      <pubDate>Wed, 26 Apr 2017 21:53:56 +0000</pubDate>
+      
+      <guid>//blog.honir.net/posts/2017-04-26-area-under-curve/</guid>
+      <description>The Receiving Operating Characteristic, or ROC, is a way to visualise the performance of a binary classifier (0/1).
+It compares the rate at which your classifier is making correct predictions (True Positives or TP) and the rate at which your classifier is making false alarms (False Positives or FP).
+When evaluating a new model performance, accuracy can be very sensitive to unbalanced class proportions. The ROC curve is insensitive to this lack of balance in the data set.</description>
+    </item>
+    
+  </channel>
+</rss>
